@@ -1,0 +1,16 @@
+[project]
+name = "python-template"
+version = "0.1.0"
+description = ""
+authors = ["Your Name <you@example.com>"]
+requires-python = ">=3.11"
+dependencies = [
+    "cdp-langchain>=0.0.13",
+    "eth-account>=0.13.7",
+    "flask>=3.1.2",
+    "flask-cors>=6.0.2",
+    "google-generativeai>=0.8.6",
+    "requests>=2.32.5",
+    "sift-stack-py>=0.9.6",
+    "web3>=7.14.0",
+]
