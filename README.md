@@ -49,6 +49,6 @@ O **Base Advisor AI** não apenas faz o agente funcionar; ele garante que o agen
 ---
 
 ## 👨‍💻 Desenvolvedor
-**Joseny Dias** *Construindo a infraestrutura para a próxima geração de agentes autônomos na rede Base.*
+**By Joseny Dias** *Construindo a infraestrutura para a próxima geração de agentes autônomos na rede Base.*
 
 [LinkedIn](https://www.linkedin.com/in/joseny-dias-934ab9234) | [GitHub](https://github.com/joseny-dias)
